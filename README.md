@@ -1,4 +1,6 @@
 # hello-world
 Test repository to understand how GitHub works
 
-Hello world!
+Hello World!
+
+This is a second modification
