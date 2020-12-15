@@ -6,4 +6,5 @@ Hello World!
 This is a second modification <br/>
 This is another modification
 
-And another again!
+And another again! <br/>
+**A bold annotation**
