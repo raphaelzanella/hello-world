@@ -13,7 +13,7 @@ And another again! <br/>
 ## A sub-title
 ### A sub-sub-title
 
-Shopping list: <br/>
+Shopping list:
 * Carrots
 * Cheese
 * Pasta
