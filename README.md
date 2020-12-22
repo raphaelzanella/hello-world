@@ -19,3 +19,4 @@ Shopping list:
 * Pasta
 * Bread
 * Butter
+* Sausages
