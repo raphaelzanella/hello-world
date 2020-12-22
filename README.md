@@ -24,3 +24,4 @@ Shopping list:
 * Milk
 * Cookies
 * Steaks
+* Apples
