@@ -20,3 +20,4 @@ Shopping list:
 * Bread
 * Butter
 * Sausages
+* Peanut butter
