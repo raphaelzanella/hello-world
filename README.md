@@ -28,3 +28,5 @@ Shopping list:
 * Steaks
 * Apples
 * Oranges
+* Pears
+
