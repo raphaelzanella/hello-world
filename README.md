@@ -23,3 +23,4 @@ Shopping list:
 * Peanut butter
 * Milk
 * Cookies
+* Apples
