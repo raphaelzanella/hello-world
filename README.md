@@ -17,3 +17,5 @@ Shopping list: <br/>
 * Carrots
 * Cheese
 * Pasta
+* Bread
+* Butter
