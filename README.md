@@ -27,3 +27,4 @@ Shopping list:
 * Cookies
 * Steaks
 * Apples
+* Oranges
