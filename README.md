@@ -16,6 +16,7 @@ And another again! <br/>
 Shopping list:
 * Carrots
 * Tomatoes
+* Potatoes
 * Cheese
 * Pasta
 * Bread
