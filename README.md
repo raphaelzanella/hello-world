@@ -22,3 +22,4 @@ Shopping list:
 * Sausages
 * Peanut butter
 * Milk
+* Cookies
